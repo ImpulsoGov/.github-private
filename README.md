@@ -1,6 +1,10 @@
 # Time Tech&Dados: A melhor equipe desse Brasil!
 
-Somos uma equipe transversal da Impulso que fornece os serviços de tecnologia e dados para a organização e seus projetos.
+Somos uma equipe transversal da [Impulso Gov](https://www.impulsogov.org/) que fornece os serviços de tecnologia e dados para a organização e seus projetos.
+
+Sinta a energia dessa equipe 🔥
+
+![](https://github.com/ImpulsoGov/.github-private/blob/f22aedce4b20cefbfba73c322c2dfb8cd586de93/C01_0111%20(1).jpg?raw=true)
 
 ## Nossos Principios
 
